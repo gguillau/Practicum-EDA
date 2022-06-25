@@ -5,7 +5,7 @@ This project is part of the Data Scientist training program from Practicum by Ya
 
 https://practicum.yandex.com/data-scientist
 
-### Project Setup
+## Objective
 You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
 #### Technical Skills Used: Python (pandas,numpy,seaborn,matplotlib)
