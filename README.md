@@ -8,9 +8,8 @@ https://practicum.yandex.com/data-scientist
 ## Objective
 You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
-#### Technical Skills Used: Python (pandas,numpy,seaborn,matplotlib)
 
-### Data Description
+## Data Description
 The dataset contains the following fields:
 * price
 * model_year
@@ -24,3 +23,7 @@ The dataset contains the following fields:
 * is_4wd — whether the vehicle has 4-wheel drive (Boolean type)
 * date_posted — the date the ad was published
 * days_listed — from publication to removal
+
+## Libraries Used
+- Pandas
+- Matplotlib.pyplot
